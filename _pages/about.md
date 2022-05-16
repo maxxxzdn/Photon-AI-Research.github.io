@@ -18,7 +18,7 @@ We therefore research recent surrogate modelling techniques such as Physics-info
 
 Team
 ======
-[**Nico Hoffmann**](n.hoffmann@hzdr.de) head of our young investigator's group *AI for Future Photon Sciences*. Nico earned his PhD in 2016 from Technische Universität Dresden in medical image analysis. He developed statistical machine learning methods that compensate motion artefacts and advanced semiparametric regression models as well as neural networks for intraoperative recognition of evoked neuronal activity of the exposed human brain. He visited the Laboratory of Mathematics in Imaging of Harvard University from 2018 to 2019. During that time, he developed recurrent convolutional neural networks for reconstruction of nerve fibre bundles of the human brain. Right before Helmholtz AI, Nico was with the Computational Radiation Physics group of Helmholtz-Zentrum Dresden-Rossendorf. 
+[**Nico Hoffmann**](mailto:n.hoffmann@hzdr.de) head of our young investigator's group *AI for Future Photon Sciences*. Nico earned his PhD in 2016 from Technische Universität Dresden in medical image analysis. He developed statistical machine learning methods that compensate motion artefacts and advanced semiparametric regression models as well as neural networks for intraoperative recognition of evoked neuronal activity of the exposed human brain. He visited the Laboratory of Mathematics in Imaging of Harvard University from 2018 to 2019. During that time, he developed recurrent convolutional neural networks for reconstruction of nerve fibre bundles of the human brain. Right before Helmholtz AI, Nico was with the Computational Radiation Physics group of Helmholtz-Zentrum Dresden-Rossendorf. 
 
 [**Anna Willmann**](XXX)
 
