@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "TESTESTEST"
+title                    : "AI for Future Photon Sciences"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
