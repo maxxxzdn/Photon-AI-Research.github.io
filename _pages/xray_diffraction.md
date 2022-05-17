@@ -1,6 +1,6 @@
 ---
 permalink: /xray_diffraction/
-title: "X-ray Diffraction"
+title: "Xray Diffraction"
 author_profile: true
 redirect_from: 
   - /xrd/
