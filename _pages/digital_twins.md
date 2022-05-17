@@ -12,7 +12,7 @@ experimental research. A demand on statistical and mathematical methods for inve
 comprehension of measurement data and quantification of data stability can only be done by a comprehensive 
 machine learning based surrogate model for Laser-driven Plasma Accelerators. 
 
-![digitaltwin sketch](images/digitaltwin_sketch.png)
+![digitaltwin sketch](../images/digitaltwin_sketch.png)
 
 This surrogate potentially accelerates **theoretical comprehension of the beamline**, 
 in terms of design space exploration and promises reliable in-situ analysis of experimental data which leads novel guidance mechanisms for 
