@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ARTIFICIAL INTELLIGENCE FOR THE FUTURE PHOTON SCIENC"
+title: "AI FOR FUTURE PHOTON SCIENCE"
 excerpt: "About us"
 author_profile: true
 redirect_from: 
