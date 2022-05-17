@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+![yig](../images/yig_sketch.png)
+
 Laser-plasma accelerators make large, conventional particle accelerators more compact, less costly, as well as increase broad availability and access in science, industry and medicine. However, comprehension of the involved physics requires sophisticated and computationally demanding algorithms for simulation and reconstruction. The Helmholtz AI young investigator group aims to close the loop between theory and experiment by researching data-driven digital twinning techniques that stimulate theoretical comprehension as well as experimental validation of the very complex dynamics involved in laser-particle acceleration.
 
 Research focus
