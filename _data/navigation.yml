@@ -1,10 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
+    url: /publications/ 
     
   - title: "Neural Solvers"
     url: /neural_solvers/   
@@ -17,7 +14,6 @@ main:
    
   - title: "Open Positions"
     url: /open_x/   
-   
    
   - title: "Guide"
     url: /markdown/
