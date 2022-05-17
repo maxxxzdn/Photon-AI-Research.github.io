@@ -15,5 +15,9 @@ main:
   - title: "Xray Diffraction"
     url: /xray_diffraction/   
    
+  - title: "Open Positions"
+    url: /open_x/   
+   
+   
   - title: "Guide"
     url: /markdown/
