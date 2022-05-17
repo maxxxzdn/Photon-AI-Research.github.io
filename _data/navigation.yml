@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Publications"
+    url: /publications/ 
+
   - title: "Neural Solvers"
     url: /neural_solvers/   
     
@@ -8,9 +11,6 @@ main:
     
   - title: "Xray Diffraction"
     url: /xray_diffraction/
-    
-  - title: "Publications"
-    url: /publications/ 
    
   - title: "Open Positions"
     url: /open_x/
