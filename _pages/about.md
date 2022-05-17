@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "AI FOR FUTURE PHOTON SCIENCE"
+title: ""
 excerpt: "About us"
 author_profile: true
 redirect_from: 
