@@ -4,7 +4,6 @@ title: "Neural Solvers"
 author_profile: true
 redirect_from:
   - /pinn/
-  - /neuralsolvers/
   - /neural_solvers.html
 ---
 
