@@ -20,12 +20,14 @@ We therefore research recent surrogate modelling techniques such as Physics-info
 
 Team
 ======
-[**Nico Hoffmann**](mailto:n.hoffmann@hzdr.de) head of our young investigator's group *AI for Future Photon Sciences*. Nico earned his PhD in 2016 from Technische Universität Dresden in medical image analysis. He developed statistical machine learning methods that compensate motion artefacts and advanced semiparametric regression models as well as neural networks for intraoperative recognition of evoked neuronal activity of the exposed human brain. He visited the Laboratory of Mathematics in Imaging of Harvard University from 2018 to 2019. During that time, he developed recurrent convolutional neural networks for reconstruction of nerve fibre bundles of the human brain. Right before Helmholtz AI, Nico was with the Computational Radiation Physics group of Helmholtz-Zentrum Dresden-Rossendorf. 
+[**Nico Hoffmann**](mailto:n.hoffmann@hzdr.de) is heading our [Helmholtz AI](http://helmholtz.ai/) young investigator's group *AI for Future Photon Sciences*. His research interest are physics-guided techniques for solving inverse imaging problems by generative models as well as the application of Reinforcement Learning to planning and control problems.
 
-[**Anna Willmann**](XXX)
+[**Anna Willmann**](mailto:a.willmann@hzdr.de) is a PhD student in the YIG. She is researching generative models for developing a data-driven digital twin of a Free-Electron Laser beamline at [ELBE center](https://www.hzdr.de/db/Cms?pNid=2806). 
 
-[**Erik Thiessenhusen**](XXX)
+[**Erik Thiessenhusen**](mailto:e.thiessenhusen@hzdr.de) is working on data-driven methods for fast and reliable reconstruction of Xray diffraction data acquired at e.g. our [HIBEF](https://www.hzdr.de/db/Cms?pOid=50566&pNid=694) beamline at [EuropeanXFEL](https://www.xfel.eu) within the scope of his PhD project at HZDR.
 
-[**Patrick Stiller**](XXX)
+[**Maksim Zhdanov**](mailto:m.zhdanov@hzdr.de) is working at the intersection of Bayesian Computation, probabilistic modeling and ML-based surrogate modeling for uncertainty quantification & reliable analysis of GI-SAXS data of e.g. [EuropeanXFEL](https://www.xfel.eu).
 
-[**Maksim Zhdanov**](XXX)
+[**Patrick Stiller**](mailto:p.stiller@hzdr.de) maintains our [Neural Solvers](https://github.com/Photon-AI-Research/NeuralSolvers) library. He is currently advancing Physics-informed Neural Networks for simulation of Maxwell-Vlasov systems that are describing various flavour of Laser-driven Particle Accelerators in his PhD project.
+
+
