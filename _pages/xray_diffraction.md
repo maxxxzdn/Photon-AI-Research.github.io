@@ -7,7 +7,9 @@ redirect_from:
   - /xrd.html
 ---
 
-We are developing the library **nfPhasing** that integrates data- and physics-driven methods for analysis of modern X-ray diffraction experiments  at synchrotrons like [DESY](https://desy.de) or our [HIBEF](https://www.hzdr.de/db/Cms?pOid=50566&pNid=694) beamline at [EuropeanXFEL](https://www.xfel.eu). 
+We are currently developing a one-step reconstruction method for inverting SAXS data during experiments at synchrotrons like [DESY](https://desy.de) or our [HIBEF](https://www.hzdr.de/db/Cms?pOid=50566&pNid=694) beamline at [EuropeanXFEL](https://www.xfel.eu). Due to the loss of the phase information, there is often more than one solution for each diffraction pattern. The conditional Invertible Network, a generative model, is able to reconstruct all possible solutions in a matter of milliseconds. The network is trained on perturbed simulated data only with a data-driven negative log-likelihood loss and is able to reconstruct most experimental data.
+
+The library **nfPhasing** expands the data loss by a physics-driven loss that integrates knowledge about the underlying scattering processes.
 
 ![nfPhasing workflow](../images/nfphasing_sketch.png)
 
